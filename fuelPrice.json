@@ -1,0 +1,146 @@
+[
+    {
+        "id" : 1,
+        "name" : "ESSO",
+        "city" : "Scarborough",
+        "Address" : "1615 Ellesmere Rd, Scarborough ON M1P 2Y3, Canada",
+        "phoneNumber" : "+1 (416) 289-7476",
+        "NormalGas" : 195.9,
+        "PremiumGas" : 235.9
+    },
+    {
+        "id" : 2,
+        "name" : "Petro-Canada",
+        "city" : "Scarborough",
+        "Address" : "1651 Ellesmere Rd, Scarborough ON M1H 2V4, Canada",
+        "phoneNumber" : "+1 (416) 289-4242",
+        "NormalGas" : 198.9,
+        "PremiumGas" : 222.5
+    },
+    {
+        "id" : 3,
+        "name" : "Petro-Canada",
+        "city" : "Scarborough",
+        "Address" : "1860 Ellesmere Rd, Scarborough ON M1H 2V5, Canada",
+        "phoneNumber" : "+1 (416) 439-0599",
+        "NormalGas" : 193.9,
+        "PremiumGas" : 220.5
+    },
+    {
+        "id" : 4,
+        "name" : "Petro-Canada",
+        "city" : "Scarborough",
+        "Address" : "1860 Ellesmere Rd, Scarborough ON M1H 2V5, Canada",
+        "phoneNumber" : "+1 (416) 289-9653",
+        "NormalGas" : 191.3,
+        "PremiumGas" : 225.8
+    },{
+        "id" : 5,
+        "name" : "Canadian Tire Gas+",
+        "city" : "Albion",
+        "Address" : "1666 Albion Rd, Etobicoke, ON M9V 1B8",
+        "phoneNumber" : "+1 (416) 745-1947",
+        "NormalGas" : 190,
+        "PremiumGas" : 220
+    },
+    {
+        "id" : 6,
+        "name" : "Petro-Canada",
+        "city" : "Albion",
+        "Address" : "1755 Albion Rd, Etobicoke, ON M9V 1C3",
+        "phoneNumber" : "+1 (416) 744-1481",
+        "NormalGas" : 197,
+        "PremiumGas" : 224
+    },
+    {
+        "id" : 7,
+        "name" : "Esso",
+        "city" : "Woodbridge",
+        "Address" : " 6161 Hwy 7 W, Woodbridge, ON L4H 0K9",
+        "phoneNumber" : "+1 (905) 850-5597",
+        "NormalGas" : 199,
+        "PremiumGas" : 232
+    },
+    {
+        "id" : 8,
+        "name" : "Shell",
+        "city" : "Rexdale",
+        "Address" : "1510 Albion Rd, Rexdale, ON M9V 1B3",
+        "phoneNumber" : "+1 (416) 740-5892",
+        "NormalGas" : 199,
+        "PremiumGas" : 230
+    },
+    {
+        "id" : 9,
+        "name" : "Esso",
+        "city" : "Etobicoke",
+        "Address" : " 6953 Steeles Ave W, Etobicoke, ON M9W 6K7",
+        "phoneNumber" : "+1 (416) 674-5730",
+        "NormalGas" : 199,
+        "PremiumGas" : 238
+    },
+    {
+        "id" : 10,
+        "name" : "A1 Petro Biz",
+        "city" : "North York",
+        "Address" : "2922 Islington Ave, North York, ON M9L 2K4",
+        "phoneNumber" : "+1 (416) 749-5151",
+        "NormalGas" : 203,
+        "PremiumGas" : 245
+    },
+    {
+        "id" : 11,
+        "name" : "Esso",
+        "city" : "Etobicoke",
+        "Address" : "1000 The Queensway, Etobicoke ON M8Z 1P7, Canada",
+        "phoneNumber" : "+1 (416) 252-1933",
+        "NormalGas" : 203,
+        "PremiumGas" : 245
+    },
+    {
+        "id" : 12,
+        "name" : "Husky",
+        "city" : "Etobicoke",
+        "Address" : "408 Dixon Rd, Etobicoke ON M9R 1S7",
+        "phoneNumber" : "+1 (416) 244-0701",
+        "NormalGas" : 203,
+        "PremiumGas" : 245
+    },
+    {
+        "id" : 13,
+        "name" : "Petro-Canada",
+        "city" : "Etobicoke",
+        "Address" : "365 Dixon Rd, Etobicoke ON M9R 1S1",
+        "phoneNumber" : "+1 (416) 245-2615",
+        "NormalGas" : 203,
+        "PremiumGas" : 245
+    },
+    {
+        "id" : 14,
+        "name" : "Ammar",
+        "city" : "Etobicoke",
+        "Address" : "9 Maplebranch Path, Etobicoke ON M9P 2M3",
+        "phoneNumber" : "+1 (416) 899-4128",
+        "NormalGas" : 203,
+        "PremiumGas" : 245
+    },
+    {
+        "id" : 15,
+        "name" : "Esso",
+        "city" : "Etobicoke",
+        "Address" : "261 Dixon Rd, Etobicoke ON M9P 2M4",
+        "phoneNumber" : "+1 (416) 240-7717",
+        "NormalGas" : 203,
+        "PremiumGas" : 245
+    },
+    {
+        "id" : 16,
+        "name" : "Husky",
+        "city" : "Etobicoke",
+        "Address" : "408 Dixon Rd, Etobicoke ON M9R 1S7",
+        "phoneNumber" : "+1 (416) 244-0701",
+        "NormalGas" : 203,
+        "PremiumGas" : 245
+    }
+    
+]
